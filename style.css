@@ -1,0 +1,223 @@
+header {
+  min-width: 100%;
+  text-align: center;
+  background-color: #2d4f73;
+  height: 80px;
+  position: fixed !important;
+  z-index: 100000;
+}
+
+.wedding-headers{
+	font-family: 'Pacifico', cursive;
+	color: #2d4f73;
+	font-size: 26px;
+}
+.header-item{
+	display: inline-block;
+	padding: 10px 20px 10px 20px;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #ffffff;
+}
+
+.dave-lauren{
+	padding: 0px 15px 0px 15px;
+	font-family: 'Pacifico', cursive;
+	color: #ffffff;
+}
+
+.main-container{
+	width: 100%;
+	margin: 0 auto;
+}
+
+.main-photo{
+	display: inline-block;
+	margin: 0px auto;
+	width: 100%;
+	text-align: center;
+}
+
+.about{
+	width: 50%;
+	margin: 25px auto;
+	text-align: center;
+	border-radius: 6px;
+	padding: 15px 50px;
+	-webkit-box-shadow: 4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+
+}
+
+.about-us-header{
+	width: 50%;
+	margin: 50px auto 0px auto;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #2d4f73;
+	font-size: 26px;
+}
+
+.proposal{
+	width: 50%;
+	margin: 25px auto;
+	text-align: center;
+	border-radius: 6px;
+	padding: 15px 50px;
+	-webkit-box-shadow: 4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+
+}
+
+.proposal-header{
+	width: 50%;
+	margin: 50px auto 0px auto;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #2d4f73;
+	font-size: 26px;
+}
+
+.wedding{
+	width: 50%;
+	margin: 25px auto;
+	text-align: center;
+	border-radius: 6px;
+	padding: 15px 50px;
+	-webkit-box-shadow: 4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+
+}
+
+.wedding-header{
+	width: 50%;
+	margin: 50px auto 0px auto;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #2d4f73;
+	font-size: 26px;
+}
+
+.photo-container{
+	max-width: 75%;
+	margin: 0px auto;
+	text-align: center;
+	vertical-align: middle;
+	/*display: inline-block;*/
+}
+
+.photo-box{
+	display: inline-block;
+	/*margin: 0 auto;*/
+	/*width: 45%;*/
+}
+
+.circle{
+	width: 10px;
+	height: 10px;
+	background-color: #2d4f73;
+	border-radius: 100%;
+	display: inline-block;
+	margin: 10px 5px;
+}
+
+.photos-header{
+	width: 50%;
+	margin: 50px auto 0px auto;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #2d4f73;
+	font-size: 26px;
+}
+
+#circle-1{
+	opacity:1;
+}
+
+#circle-2{
+	opacity:0.5;
+}
+
+#circle-3{
+	opacity:0.5;
+}
+
+#circle-4{
+	opacity:0.5;
+}
+
+#photo-2{
+	display:none;
+}
+
+#photo-3{
+	display:none;
+}
+
+#photo-4{
+	display:none;
+}
+
+.wedding-party-header{
+	width: 50%;
+	margin: 50px auto 0px auto;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #2d4f73;
+	font-size: 26px;
+}
+
+.wedding-party{
+	/*width: 50%;*/
+	margin: 50px auto 0px auto;
+	text-align: center;
+}
+
+.bridal-party{
+	display: inline-block;
+	width: 25%;
+	padding: 0px 20px;
+	font-family: 'Pacifico', cursive;
+	color: #2d4f73;
+	font-size: 26px;
+}
+
+p {
+	font-family: arial;
+	font-size: 18px;
+	color: #000000;
+}
+
+
+.groom-party{
+	width: 25%;
+	display: inline-block;
+	padding: 0px 20px;
+	font-family: 'Pacifico', cursive;
+	color: #2d4f73;
+	font-size: 26px;
+}
+
+.registry-header{
+	width: 50%;
+	margin: 50px auto 0px auto;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #2d4f73;
+	font-size: 26px;
+}
+
+.registry{
+	width: 50%;
+	margin: 25px auto;
+	text-align: center;
+	border-radius: 6px;
+	padding: 15px 50px;
+	-webkit-box-shadow: 4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         4px 4px 10px 0px rgba(50, 50, 50, 0.75);
+
+}
