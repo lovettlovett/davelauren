@@ -8,22 +8,38 @@ header {
 }
 
 .wedding-headers{
-	font-family: 'Pacifico', cursive;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
 	color: #2d4f73;
-	font-size: 26px;
+	font-size: 42px;
+	padding: 0px;
+	margin: 0px;
 }
 .header-item{
 	display: inline-block;
 	padding: 10px 20px 10px 20px;
 	text-align: center;
-	font-family: 'Pacifico', cursive;
-	color: #ffffff;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #fdfbf5;
 }
 
 .dave-lauren{
 	padding: 0px 15px 0px 15px;
-	font-family: 'Pacifico', cursive;
-	color: #ffffff;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #fdfbf5;
+	font-size: 24px;
+	/*display: inline;*/
+}
+
+.header-flower{
+	display: inline;
+	padding: 15px 5px 0px 5px;
+}
+
+.big-flowers{
+	margin: 25px 0px 0px 0px;
 }
 
 .main-container{
@@ -38,6 +54,18 @@ header {
 	text-align: center;
 }
 
+.about-us-header{
+	width: 50%;
+	margin: 0em auto 0em auto;
+	/*padding: 0px;*/
+	text-align: center;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
+	color: #2d4f73;
+	font-weight: bold;
+	font-size: 55px;
+}
+
 .about{
 	width: 50%;
 	margin: 25px auto;
@@ -50,18 +78,9 @@ header {
 
 }
 
-.about-us-header{
-	width: 50%;
-	margin: 50px auto 0px auto;
-	text-align: center;
-	font-family: 'Pacifico', cursive;
-	color: #2d4f73;
-	font-size: 26px;
-}
-
 .proposal{
 	width: 50%;
-	margin: 25px auto;
+	margin: 25px auto 0px auto;
 	text-align: center;
 	border-radius: 6px;
 	padding: 15px 50px;
@@ -75,9 +94,11 @@ header {
 	width: 50%;
 	margin: 50px auto 0px auto;
 	text-align: center;
-	font-family: 'Pacifico', cursive;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
 	color: #2d4f73;
-	font-size: 26px;
+	font-size: 55px;
+	font-weight: bold;
 }
 
 .wedding{
@@ -96,14 +117,20 @@ header {
 	width: 50%;
 	margin: 50px auto 0px auto;
 	text-align: center;
-	font-family: 'Pacifico', cursive;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
 	color: #2d4f73;
-	font-size: 26px;
+	font-size: 55px;
+	font-weight: bold;
 }
+
+/*.mini-flowers{
+	display:block;
+}*/
 
 .photo-container{
 	max-width: 75%;
-	margin: 0px auto;
+	margin: 15px auto;
 	text-align: center;
 	vertical-align: middle;
 	/*display: inline-block;*/
@@ -128,9 +155,11 @@ header {
 	width: 50%;
 	margin: 50px auto 0px auto;
 	text-align: center;
-	font-family: 'Pacifico', cursive;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
 	color: #2d4f73;
-	font-size: 26px;
+	font-size: 55px;
+	font-weight: bold;
 }
 
 #circle-1{
@@ -165,9 +194,11 @@ header {
 	width: 50%;
 	margin: 50px auto 0px auto;
 	text-align: center;
-	font-family: 'Pacifico', cursive;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
 	color: #2d4f73;
-	font-size: 26px;
+	font-size: 55px;
+	font-weight: bold;
 }
 
 .wedding-party{
@@ -180,15 +211,26 @@ header {
 	display: inline-block;
 	width: 25%;
 	padding: 0px 20px;
-	font-family: 'Pacifico', cursive;
+	margin: 0 auto;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
 	color: #2d4f73;
 	font-size: 26px;
 }
 
+.party-title{
+	font-family: 'Great Vibes', cursive;
+	font-size: 24px;
+	padding:0px;
+	margin: 0px;
+}
+
 p {
-	font-family: arial;
-	font-size: 18px;
-	color: #000000;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+	color: #2d4f73;
+	opacity: .8;
 }
 
 
@@ -196,7 +238,9 @@ p {
 	width: 25%;
 	display: inline-block;
 	padding: 0px 20px;
-	font-family: 'Pacifico', cursive;
+	margin: 0 auto;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
 	color: #2d4f73;
 	font-size: 26px;
 }
@@ -205,9 +249,11 @@ p {
 	width: 50%;
 	margin: 50px auto 0px auto;
 	text-align: center;
-	font-family: 'Pacifico', cursive;
+	/*font-family: 'Pacifico', cursive;*/
+	font-family: 'Great Vibes', cursive;
 	color: #2d4f73;
-	font-size: 26px;
+	font-size: 55px;
+	font-weight: bold;
 }
 
 .registry{
@@ -220,4 +266,17 @@ p {
 	-moz-box-shadow:    4px 4px 10px 0px rgba(50, 50, 50, 0.75);
 	box-shadow:         4px 4px 10px 0px rgba(50, 50, 50, 0.75);
 
+}
+
+.old-main{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#old{
+	padding-right: 5px;
+}
+
+#new{
+	padding-left: 5px;
 }
